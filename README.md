@@ -19,25 +19,6 @@ Transform your raw Spotify listening history into fascinating insights about you
 - ⚡ **Energy Cycles**: How your music energy matches your daily rhythm
 - 📊 **Personal Music DNA**: A complete profile of your unique listening patterns
 
-## 🎯 Quick Start
-
-### Option 1: Kaggle (Recommended)
-1. Open the [Kaggle Notebook](https://www.kaggle.com/) 
-2. Upload your Spotify data to `/kaggle/input/`
-3. Run all cells to generate your knowledge map!
-
-### Option 2: Local Setup
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/spotify-knowledge-map.git
-cd spotify-knowledge-map
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter
-jupyter notebook spotify_analysis.ipynb
-```
 
 ## 📁 Project Structure
 
