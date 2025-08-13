@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug reports**: [Open an issue](https://github.com/yourusername/spotify-knowledge-map/issues)
 - 💡 **Feature requests**: [Start a discussion](https://github.com/yourusername/spotify-knowledge-map/discussions)
-- 📧 **Contact**: your.email@example.com
+- 📧 **Contact**: sellokgole6@gmail.com
 
 ---
 
